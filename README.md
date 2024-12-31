@@ -1,7 +1,14 @@
-# yuna!
+# Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNA%20CODE&fontSize=90)
+## 이런 환경에 익숙해요✍🏼
 
-<a href ="https://github.com/1-yuna"><img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href ="https://github.com/1-yuna"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href ="https://github.com/1-yuna"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+## 언어
+
+<p>
+  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+</p>
+
+## 📕 Latest Blog Posts
+
+<ul><li><a href='https://cs-by-yuna.tistory.com/1' target='_blank'>Interface란?</a></li></ul>
