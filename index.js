@@ -5,8 +5,9 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Hi there 👋
+let text = `![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNA%20CODE&fontSize=90)
 
+# Hi there 👋
 ## 이런 환경에 익숙해요✍🏼
 
 ## 언어
