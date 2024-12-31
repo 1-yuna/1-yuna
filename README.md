@@ -12,4 +12,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://cs-by-yuna.tistory.com/1' target='_blank'>Interface란?</a></li></ul>
+<ul></ul>
