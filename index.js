@@ -35,11 +35,16 @@ const parser = new Parser({
 
     // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
     for (let i = 0; i < 10; i++) {
-        const {title, link} = feed.items[i];
-        console.log(`${i + 1}번째 게시물`);
-        console.log(`추가될 제목: ${title}`);
-        console.log(`추가될 링크: ${link}`);
-        text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+        if (feed.items[i]) { // feed.items[i]가 존재하는지 확인
+            const {title, link} = feed.items[i];
+            console.log(`${i + 1}번째 게시물`);
+            console.log(`추가될 제목: ${title}`);
+            console.log(`추가될 링크: ${link}`);
+            text += `<li><a href='${link}' target='_blank'>${title}</a></li>`;
+        } else {
+            console.log(`No more posts found after ${i} posts.`);
+            break; // 더 이상 게시물이 없으면 종료
+        }
     }
 
     text += `</ul>`;
