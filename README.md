@@ -12,4 +12,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://cs-by-yuna.tistory.com/2' target='_blank'>API란?</a></li><li><a href='https://cs-by-yuna.tistory.com/1' target='_blank'>인터페이스(Interface)란?</a></li></ul>
+<ul><li><a href='https://cs-by-yuna.tistory.com/2' target='_blank'>API/ REST API/ RESTful API</a></li><li><a href='https://cs-by-yuna.tistory.com/1' target='_blank'>인터페이스(Interface)란?</a></li></ul>
