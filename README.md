@@ -12,4 +12,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://cs-by-yuna.tistory.com/4' target='_blank'>대칭키 / 비대칭키 (작성중)</a></li><li><a href='https://cs-by-yuna.tistory.com/3' target='_blank'>http란?</a></li><li><a href='https://cs-by-yuna.tistory.com/2' target='_blank'>API, REST API, RESTful API</a></li><li><a href='https://cs-by-yuna.tistory.com/1' target='_blank'>인터페이스(Interface)란?</a></li></ul>
+<ul><li><a href='https://cs-by-yuna.tistory.com/4' target='_blank'>대칭키 / 비대칭키 (작성중)</a></li><li><a href='https://cs-by-yuna.tistory.com/3' target='_blank'>HTTP란? (작성 중)</a></li><li><a href='https://cs-by-yuna.tistory.com/2' target='_blank'>API, REST API, RESTful API</a></li><li><a href='https://cs-by-yuna.tistory.com/1' target='_blank'>인터페이스(Interface)란?</a></li></ul>
