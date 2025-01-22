@@ -4,8 +4,8 @@
 <!--## 이런 환경에 익숙해요✍🏼-->
 
 ## 📚STACKS
-<img alt="" src= "https://img.shields.io/badge/java-white?logo=typescript&logoColor=red"/>
-<img alt="" src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img alt="" src= "https://img.shields.io/badge/java-white?logo=java&logoColor=red"/>
+<img alt="" src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/css3-#1572B6?style=for-the-badge&logo=css3&logoColor=white">
