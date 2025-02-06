@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNA%20CODE&fontSize=90)
 
 <!--# Hi there 👋-->
-<!--## 이런 환경에 익숙해요✍🏼-->
+<!--## 이런 환경에 익숙해요! ✍🏼-->
 
 ## 📚 STACKS
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://cs-by-yuna.tistory.com/14' target='_blank'>GraphQL</a></li><li><a href='https://cs-by-yuna.tistory.com/13' target='_blank'>TCP vs HTTP</a></li><li><a href='https://cs-by-yuna.tistory.com/12' target='_blank'>동기/ 비동기, 블로킹/ 논블로킹</a></li><li><a href='https://cs-by-yuna.tistory.com/11' target='_blank'>멀티스레딩과 성능</a></li><li><a href='https://cs-by-yuna.tistory.com/10' target='_blank'>멀티프로세스 vs 멀티스레드</a></li><li><a href='https://cs-by-yuna.tistory.com/9' target='_blank'>프로세스와 스레드</a></li><li><a href='https://cs-by-yuna.tistory.com/5' target='_blank'>HTTP와 HTTPS의 차이점</a></li><li><a href='https://cs-by-yuna.tistory.com/4' target='_blank'>대칭키 / 비대칭키</a></li><li><a href='https://cs-by-yuna.tistory.com/3' target='_blank'>HTTP란?</a></li><li><a href='https://cs-by-yuna.tistory.com/2' target='_blank'>API, REST API, RESTful API</a></li></ul>
+<ul><li><a href='https://cs-by-yuna.tistory.com/15' target='_blank'>RDB vs NoSQL</a></li><li><a href='https://cs-by-yuna.tistory.com/14' target='_blank'>GraphQL</a></li><li><a href='https://cs-by-yuna.tistory.com/13' target='_blank'>TCP vs HTTP</a></li><li><a href='https://cs-by-yuna.tistory.com/12' target='_blank'>동기/ 비동기, 블로킹/ 논블로킹</a></li><li><a href='https://cs-by-yuna.tistory.com/11' target='_blank'>멀티스레딩과 성능</a></li><li><a href='https://cs-by-yuna.tistory.com/10' target='_blank'>멀티프로세스 vs 멀티스레드</a></li><li><a href='https://cs-by-yuna.tistory.com/9' target='_blank'>프로세스와 스레드</a></li><li><a href='https://cs-by-yuna.tistory.com/5' target='_blank'>HTTP와 HTTPS의 차이점</a></li><li><a href='https://cs-by-yuna.tistory.com/4' target='_blank'>대칭키 / 비대칭키</a></li><li><a href='https://cs-by-yuna.tistory.com/3' target='_blank'>HTTP란?</a></li></ul>
