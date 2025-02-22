@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNA%20CODE&fontSize=90)
 
 <!--# Hi there 👋-->
-<!--## 이런 환경에 익숙해요 ✍🏼-->
+<!--## 이런 환경에 익숙해요 !!✍🏼-->
 
 ## 📚 STACKS
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
