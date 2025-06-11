@@ -21,7 +21,7 @@
 <!--  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>-->
 <!--</p>-->
 
-[//]: # (![Yuna's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=1-yuna&show_icons=true&theme=light&#41;)
+![Yuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-yuna&show_icons=true&theme=light)
 
 ## 📕 Latest Blog Posts
 
