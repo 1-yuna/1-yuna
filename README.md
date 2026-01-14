@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Yuna's%20GitHub!%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=200&section=header&text=Welcome%20to%20Yuna's%20GitHub!%20👋&fontSize=50&fontColor=ffffff)
 
 
 <div align="center">
@@ -16,6 +16,8 @@
 
 
 [![yuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-yuna)](https://github.com/1-yuna/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=40AEF0)
 
 <!-- ## 📕 Latest Blog Posts
 
