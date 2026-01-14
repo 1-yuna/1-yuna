@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNA%20CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello, I'm Yuna 👋&fontSize=90)
 
 <!--# Hi there 👋-->
 <!--## 이런 환경에 익숙해요 !✍🏼-->
