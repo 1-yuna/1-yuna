@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&20to%20Yuna's%20GitHub!%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Yuna's%20GitHub!%20👋&fontSize=90)
 
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 
-[![yuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM YUNA)](https://github.com/KIM YUNA/github-readme-stats)
+[![yuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-yuna)](https://github.com/1-yuna/github-readme-stats)
 
 <!-- ## 📕 Latest Blog Posts
 
